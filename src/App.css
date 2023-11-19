@@ -1,0 +1,32 @@
+/*
+
+.App {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.App > div {
+  margin-top: 30px;
+  margin-right: 50px;
+  display: flex;
+  gap: 30px;
+}
+
+.error {
+  border: red 1px solid;
+}
+
+.error-message {
+  color: red;
+}
+
+.active-filter {
+  background-color: aquamarine;
+}
+
+.is-done {
+  opacity: 0.5;
+}
+
+*/
